@@ -1,0 +1,9 @@
+names:
+  0: Palm
+  1: Legs
+  2: Face
+  3: Gripper
+  4: Arduino_UNO
+path: C:\IIT Bombay\THP-Recruitment\AI\YOLO\Robot\dataset
+train: train\images
+val: train\images
