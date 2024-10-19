@@ -1,0 +1,7 @@
+train: train\images
+names:
+  0: Books
+  1: desk
+  2: Computer
+path: C:\IIT Bombay\THP-Recruitment\AI\YOLO\Lab\dataset
+val: train\images
