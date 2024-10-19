@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-
+//LCD Initialize
 const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
@@ -21,7 +21,7 @@ void loop()
   lcd.clear();
 }
 
-
+//Checks the switch status and converts it to 4 bit binary
 void checkinputt()
 {
     if(digitalRead(10)==1)
@@ -55,7 +55,7 @@ void checkinputt()
   }
 
 }
-
+//The logic to convert binary to decimal
 void convtobin()
 {
  int num = 0;
