@@ -10,4 +10,4 @@ The script reades the text , asks user for language and generates an audio file 
 
 Incase you are testing this file , make sure to install necessary dependencies and change the txt file path as per your system.
 
-I have mentioned link to a video of me showing the demo in the answer pdf.
+A video of me showing the demo in the Google Drive.
