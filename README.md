@@ -9,6 +9,11 @@
 Welcome to this Repo ,
 
 I am Ansh Savla - A Robotics Enthusiast ,
-Here I am posting all my coding files for the recruitment assignment.
+Here I am posting all my coding-related files for the recruitment assignments.
 
-Hopefully I get into THP :)
+My preference for subsystem is:
+
+1. Electronics
+2. AI/ML
+
+Hopefully I become a part of THP Team:)
