@@ -1,0 +1,58 @@
+{
+    "project_name": "IIT Bombay Humanoid Project",
+    "objectives": "The IIT Bombay Humanoid Project is a tech group that aims to develop a fully autonomous humanoid robot capable of assisting in Library maintenance, Research and more. The project focuses on cutting-edge AI, robotics, and machine learning techniques to create a humanoid that can perform complex tasks, interact with humans naturally, and learn from its environment.",
+    "progress": "As of 2024, the project has completed the first two phases. The initial phase involved building the hardware framework, including the mechanical design and actuation systems. The second phase focused on developing the control systems for locomotion and basic interaction. The team is currently working on advanced AI models to enhance the robot's ability to understand and respond to complex human commands.",
+    "team_members": [
+        {
+            "name": "Sahil Patil",
+            "role": "Controls Engineer",
+            "department": "Department of Aerospace Engineering"
+        },
+        {
+            "name": "Karthikeyan Jaganathan",
+            "role": "AI Subsystem Lead",
+            "department": "Department of Energy Science and Engineering" 
+        },
+        {
+            "name": "Dipti Meshram",
+            "role": "Design Subsystem",
+            "department": "Department of Aerospace Engineering"
+        },
+        {
+            "name": "Harris Narendran R",
+            "role": "AI Engineer",
+            "department": "Department of Engineering Physics"
+        },
+        {
+            "name": "Siddhesh Chaudhari",
+            "role": "Team Lead",
+            "department": "Department of Mechanical Engineering"
+        },
+        {
+            "name": "Anuj Yadav",
+            "role": "Business Team Lead",
+            "department": "Department of Environmental Science"
+        },
+        {
+            "name": "Hanish Dhanwalkar",
+            "role": "Team Lead",
+            "department": "Department of Mechanical Engineering"
+        },
+        {
+            "name": "Anay Malviya",
+            "role": "Electrical Engineer",
+            "department": "Department of Electrical Engineering"
+        },
+        {
+            "name": "Rana Das",
+            "role": "AI/ML Subsystem Lead",
+            "department": "Department of Civil Engineering"
+        }
+        
+    ],
+    "contact_information": {
+        "email": "humanoid.project@iitb.ac.in",
+        "website": "https://github.com/The-Humanoid-Project",
+        "phone": "+91-22-2572-2545"
+    }
+}
